@@ -1,0 +1,8 @@
+main: main.ipynb
+hideRoot: false
+title: "Projected GDP"
+description: "A graph on the forecasted GDP levels of various countries to 2030."
+preview: "images/preview.png"
+tags: 
+    - economy
+    - forecasts
